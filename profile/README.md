@@ -47,9 +47,6 @@ Have questions or suggestions? We'd love to hear from you!
 - Discussions: [github.com/PragmaticDX/discussions](https://github.com/PragmaticDX/discussions)
 - Issues: Directly in the respective repositories
 
-## 📧 Subscribe
-<iframe src="https://blog.pragmaticdx.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
 ---
 
 <div align="center">
