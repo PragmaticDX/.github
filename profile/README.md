@@ -40,6 +40,11 @@ We believe in the power of community! Your contributions are welcome:
 - 🔀 Submit pull requests
 - ⭐ Star projects that help you
 
+## ☕ Support This Work
+If you find PragmaticDX valuable, consider supporting the research and content creation:
+- 💝 [Support on Ko-Fi](https://ko-fi.com/pragmaticdx)
+- ☕ [Buy Me a Coffee]([buymeacoffee-link](https://buymeacoffee.com/pragmaticdx))
+
 ## 📫 Contact
 
 Have questions or suggestions? We'd love to hear from you!
