@@ -43,7 +43,7 @@ We believe in the power of community! Your contributions are welcome:
 ## ☕ Support This Work
 If you find PragmaticDX valuable, consider supporting the research and content creation:
 - 💝 [Support on Ko-Fi](https://ko-fi.com/pragmaticdx)
-- ☕ [Buy Me a Coffee]([buymeacoffee-link](https://buymeacoffee.com/pragmaticdx))
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/pragmaticdx)
 
 ## 📫 Contact
 
